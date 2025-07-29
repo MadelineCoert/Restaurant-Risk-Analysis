@@ -34,13 +34,9 @@ The analysis combines exploratory data techniques, regression models and time se
 ## Recommendations
 
 - **Support busy but low-rated venues:** High customer volume with poor food ratings may signal service strain. Prioritise quality control and staffing support.
-
 - **Reassess pricing strategies:** Higher prices reduced customer numbers. Test pricing models to find an optimal balance between value and volume.
-
 - **Flag at-risk sites early:** Suburban location, low food quality and low prices predicted higher sale likelihood. Use these as early warning signs.
-
 - **Use trends to detect strategic sales:** Some sold restaurants showed strong growth. Combine time series data with static metrics to understand if exits are strategic or distress-driven.
-
 - **Collect richer data:** Add profitability, staffing and complaints data to improve model accuracy and proactive decision-making.
 
 ---
