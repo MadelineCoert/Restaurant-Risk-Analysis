@@ -1,14 +1,7 @@
 # Restaurant Risk & Performance Analysis
-
-This project analyses operational and sales data from a restaurant franchise network to identify early warning signs of underperformance and assess the likelihood of ownership changes. 
-
-The analysis combines exploratory data techniques, regression models and time series decomposition to extract practical insights for franchisors.
-
----
-
-## Final Report
-
 [View the full PDF report here](./Restaurant_EDA_Report1.pdf)
+
+This project analyses operational and sales data from a restaurant franchise network to identify early warning signs of underperformance and assess the likelihood of ownership changes. The analysis combines exploratory data techniques, regression models and time series decomposition to extract practical insights for franchisors.
 
 ---
 
