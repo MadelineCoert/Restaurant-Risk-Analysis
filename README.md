@@ -1,8 +1,14 @@
 # Restaurant Risk & Performance Analysis
 
-This project analyzes operational and sales data from a fictional restaurant franchise network to identify early warning signs of underperformance and assess the likelihood of ownership changes. It was completed as part of the University of Queensland course **BSAN7204: Data Analytics**.
+This project analyses operational and sales data from a restaurant franchise network to identify early warning signs of underperformance and assess the likelihood of ownership changes. 
 
-The analysis combines exploratory data techniques, regression models, and time series decomposition to extract practical insights for franchisors.
+The analysis combines exploratory data techniques, regression models and time series decomposition to extract practical insights for franchisors.
+
+---
+
+## Final Report
+
+[Click here to view the full PDF report](./Restaurant_EDA_Report.pdf)
 
 ---
 
@@ -22,6 +28,20 @@ The analysis combines exploratory data techniques, regression models, and time s
 - **Suburban locations**, **low food ratings**, and **lower prices** predicted a higher likelihood of sale.
 - The **log-transformed regression model** explained **89%** of variance in customer count.
 - Time series analysis showed **strong growth trends**, indicating some sales may be **strategic** rather than distress-driven.
+
+---
+
+## Recommendations
+
+- **Support busy but low-rated venues:** High customer volume with poor food ratings may signal service strain. Prioritise quality control and staffing support.
+
+- **Reassess pricing strategies:** Higher prices reduced customer numbers. Test pricing models to find an optimal balance between value and volume.
+
+- **Flag at-risk sites early:** Suburban location, low food quality and low prices predicted higher sale likelihood. Use these as early warning signs.
+
+- **Use trends to detect strategic sales:** Some sold restaurants showed strong growth. Combine time series data with static metrics to understand if exits are strategic or distress-driven.
+
+- **Collect richer data:** Add profitability, staffing and complaints data to improve model accuracy and proactive decision-making.
 
 ---
 
@@ -49,16 +69,10 @@ Restaurant-Risk-Analysis/
 
 ---
 
-## Final Report
-
-[Click here to view the full PDF report](./Restaurant_EDA_Report.pdf)
-
----
-
 ## Reflections
 
 This project enhanced my ability to:
-- Clean and analyze operational datasets
+- Clean and analyse operational datasets
 - Interpret regression and classification models
 - Combine static insights with temporal patterns for a dynamic risk assessment
 - Build a narrative that blends quantitative evidence with strategic business implications
