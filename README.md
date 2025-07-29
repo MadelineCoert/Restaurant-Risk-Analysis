@@ -1,6 +1,6 @@
 # Restaurant Risk & Performance Analysis
-## Final Report
 
+## Final Report
 ---
 
 **[View the full PDF report here](Restaurant_Risk_Analysis_Report.pdf)**  
